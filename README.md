@@ -1,2 +1,2 @@
 # persona
-persona practiva ij
+persona practica ij
